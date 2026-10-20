@@ -1,0 +1,67 @@
+﻿Issue Type,Issue key,Summary,Assignee,Reporter,Status,Resolution
+Bug,MARVEL-12405,FITT | Update Adobe Target for White Screen Issue,Alan Wong,Alan Wong,Done,Done
+Bug,MARVEL-12402,"Marvel.com | Web | Prod, Staging | EEA - GDPR banner is displayed after logout",Marvel Web,Prem Kumar Singh,Open,
+Bug,MARVEL-12399,Marvel.com | Unable to Purchase subscription on Production as a blank white screen is displayed after selecting a plan,Marvel Web,Madhumati Bhagwant,Done,Done
+Bug,MARVEL-12398,Marvel.com | Web|Prod| Cross-brand consent preference is not retained from ABC News to Marvel,Marika Thompson,Bhautik Kumar Devarajbhai,Done,Done
+Bug,MARVEL-12395,Marvel.com | Web| Prod| CMP consent preference resets to Opt-in after user previously selected Opt-out and re-logged in,Marika Thompson,Bhautik Kumar Devarajbhai,Done,Done
+Bug,MARVEL-12387,Catalog API | DELETE RESTRICT clause for print/vertical pivot tables,Enver Uribe,Enver Uribe,Ready for QA,
+Bug,MARVEL-12386,Marvel Unlimited | Marvel Entitlements Admin | Marvel CustSupp_Incorrect Promo Comics_8695218_7/27/2026,Mark Buckweitz,Julian Dufresne,Done,Done
+Bug,MARVEL-12385,Web | Staging | EEA region | Observed Blank white screen on checkout page,Marvel Web,Abinaya Yoganandam,Withdrawn,Duplicate
+Bug,MARVEL-12384,Web|Staging| Intermittent Blank Page on MU Sell and Checkout Page,Marvel Web,Bhautik Kumar Devarajbhai,Open,
+Bug,MARVEL-12383,"Web | Prod, Staging | No calls to GAM for Display Ads after user opts out",Marika Thompson,Amanda Anderson,Done,Done
+Bug,MARVEL-12382,"Web| Staging| OneID page is displayed instead of the checkout page after clicking the ""Try Marvel Unlimited Free"" or ""Start Your Free Trial"" CTA button",Marika Thompson,Bhautik Kumar Devarajbhai,Open,
+Bug,MARVEL-12379,"Web | Prod, Staging - User remains logged into Marvel after clicking ""log out everywhere"" from stg.my.disney.com, my.disney.com",Marvel Web,Prem Kumar Singh,Open,
+Bug,MARVEL-12373,Export status endpoint returns 500 (Lambda timeout on large execution histories),Davis Allen,Davis Allen,Done,Done
+Bug,MARVEL-12369,[MyDisney] Web | Staging - User is logged out when changing an account's country,Marvel Web,Prem Kumar Singh,Withdrawn,As Designed
+Bug,MARVEL-12367,Web| Staging| Prod |Current Plan incorrectly reflects changed plan after subscription update,,Bhautik Kumar Devarajbhai,Withdrawn,Won't Fix
+Bug,MARVEL-12366,"[Identity] Web| Prod, Staging | Email preference checkboxes revert to selected after page refresh",Marika Thompson,Bhautik Kumar Devarajbhai,Blocked,
+Bug,MARVEL-12365,[Identity] Web| Staging| Chrome| Birthdate field persists on Chrome after returning to registration form,Marvel Web,Bhautik Kumar Devarajbhai,Done,Done
+Bug,MARVEL-12364,"Web | staging | On Enter Your email to continue screen, when clicking on close icon, ""Email cannot be blank. Enter an Email address"" error message displayed under email text field before screen get closed",Marvel Web,Abinaya Yoganandam,Withdrawn,Duplicate
+Bug,MARVEL-12363,"Web | Staging | Gift Purchase | Unable to purchase gift, observed error message ""Sorry, we could not complete your order. Please check your order details and try again.""",Marvel Web,Abinaya Yoganandam,Open,
+Bug,MARVEL-12359,Web|Staging| Header/Footer Menu Not Displaying and 404 Error on Index Pages,Marvel Web,Bhautik Kumar Devarajbhai,Done,Done
+Bug,MARVEL-12353,Web| Staging| Error occurs when trying to redeem a comic with a valid code (Validation),Marika Thompson,Bhautik Kumar Devarajbhai,Done,Done
+Bug,MARVEL-12352,Web| Staging| Masthead menu appears different on the homepage in the Staging environment and social media icons are missing,Marvel Web,Bhautik Kumar Devarajbhai,Done,Done
+Bug,MARVEL-12349,"[MyDisney] Web| Staging| Unable to delete account ""Something went wrong"" error displayed on account deletion page",Marika Thompson,Bhautik Kumar Devarajbhai,Done,Done
+Bug,MARVEL-12348,"[Identity] Staging | While login, Observed ""Change Password"" screen after entering valid password and one time passcode",Marika Thompson,Abinaya Yoganandam,Done,As Designed
+Bug,MARVEL-12345,"[Identity] Prod, Staging | Private Safari | Cannot log in",Marika Thompson,Abinaya Yoganandam,Blocked,
+Bug,MARVEL-12344,"[Identity] Prod, Staging | While creating account, observed error in ""Enter First Name"" field and Mouse point automatically placed in ""Enter Last Name"" field ",Marvel Web,Abinaya Yoganandam,Blocked,
+Bug,MARVEL-12343,[EWCS] No calls to GAM for Display Ads after user opts out ,Marika Thompson,Amanda Anderson,Done,Deferred
+Bug,MARVEL-12342,"EWCS | Staging | US_UI_Scenarios | On changing the browser language to anything other than english, the language in the preference center also changes ",Marika Thompson,Madhumati Bhagwant,Withdrawn,As Designed
+Bug,MARVEL-12341,EWCS |Web | Staging| iOS| Privacy opt-out preference is not synced from ABC News iOS app to Marvel web,Marika Thompson,Bhautik Kumar Devarajbhai,Blocked,
+Bug,MARVEL-12337,"[Identity] Web| Prod, Staging | Validation error messages are displayed on modal click instead of only after form submission",Marika Thompson,Bhautik Kumar Devarajbhai,Blocked,
+Bug,MARVEL-12336,EWCS | Staging | No ads displayed on any of the page,Marvel Web,Abinaya Yoganandam,Done,Done
+Bug,MARVEL-12335,EWCS |Web | Staging | U.S - Ads Validation | DPO (devicePrivacyOptOut) is not fired (Validation),Marika Thompson,Abinaya Yoganandam,Withdrawn,As Designed
+Bug,MARVEL-12334,"Web | Prod, Staging | Intermittently observed ""Do not Sell My Info"" link instead of ""Your Privacy Choices"" link in the Footer section",Marika Thompson,Prem Kumar Singh,Done,Done
+Bug,MARVEL-12332,Lockjaw | Application & Apache logs not reaching CloudWatch (written to in-container files instead of stdout/stderr),Haris Neziric,Haris Neziric,Done,Done
+Bug,MARVEL-12331,Drupal | Duplicate videos in dynamic playlists for entity-based videos in removeDuplicateVideos(),Haris Neziric,Haris Neziric,Done,Deferred
+Bug,MARVEL-12330,"Drupal | Undefined array key ""bcv_id"" warning across CMS admin and API",Haris Neziric,Haris Neziric,Done,Done
+Bug,MARVEL-12327,Marvel.com | Unable to purchase subscription on Marvel.com,Cori Dang,Madhumati Bhagwant,Done,Done
+Bug,MARVEL-12326,"Web  | Staging | MU Sell Page | Error Message ""Sorry, we could not complete your order. Please check your order details and try again."" is displayed when trying to perform subscription purchase via Credit Card or PayPal",Madhumati Bhagwant,Prem Kumar Singh,Done,Done
+Bug,MARVEL-12320,Web| Sdcc| Staging| Incorrect renewal date after reactivating a Expired annual plan following 3 month gift redemption,Alan Wong,Bhautik Kumar Devarajbhai,Withdrawn,Won't Do
+Bug,MARVEL-12307,QA | SDCC | Unable to purchase subscription ,Alan Wong,Madhumati Bhagwant,Done,Done
+Bug,MARVEL-12306,Masterorder - plaintext marvel_rw DB passwords committed in application.ini (dev/qa/staging/prod),,Davis Allen,Open,
+Bug,MARVEL-12305,"QA | SDCC | on changing plan from annual to Monthly when the user is in trial period and redeemed the 3 months gift, the entitlement tools says ""Marvel Unlimited Annual"" ",Alan Wong,Madhumati Bhagwant,Done,As Designed
+Bug,MARVEL-12304,"QA | SDCC | if a new annual user with free trail redeem 3 months gift, the date displayed in Entitlement tool is incorrect",Marvel Web,Madhumati Bhagwant,Done,As Designed
+Bug,MARVEL-12300,Web | Staging | Entitlements Tool | Gift redeem details are merged into the Subscription Details instead of being displayed independently,Marvel Web,Prem Kumar Singh,Withdrawn,As Designed
+Bug,MARVEL-12293,Web |QA|  Unable to read comics immediately after redeeming a 3-month gift until the user logs out and logs back in,Marvel Web,Bhautik Kumar Devarajbhai,Done,Done
+Bug,MARVEL-12281,"SDCC | QA | New User, after redeeming 3 month gift code is not able to read comics, unless he logs out and logs back in",Marvel Web,Madhumati Bhagwant,Done,Done
+Bug,MARVEL-12280,"Unable to read paid comics on QA env, though the entitlement is reflected in the entitlement tool",Alan Wong,Madhumati Bhagwant,Done,Done
+Bug,MARVEL-12279,"[Identity] OneID v5 | High Trust: intermittently, after one reauth, cannot reauth again even when in low trust state",Marika Thompson,Marika Thompson,Blocked,
+Bug,MARVEL-12278,Marvel.com | Adobe Target Not Installed/Working on Marvel.com,Alan Wong,app-dtci-issues-tool@disney.com,Done,Done
+Bug,MARVEL-12275,"Web| QA, Staging| MEA,EEA Region| Checkout pages display ""System is currently experiencing issues"" error on Chrome browser",Alan Wong,Bhautik Kumar Devarajbhai,Done,Done
+Bug,MARVEL-12274,Marvel.com | Slider component is not working correctly,Marika Thompson,app-dtci-issues-tool@disney.com,Done,Done
+Bug,MARVEL-12273,Marvel.com | The images are cut off on a carousel on a set image. (Validation),Alan Wong,app-dtci-issues-tool@disney.com,Done,Done
+Bug,MARVEL-12272,"Web | QA | Checkout Page | Error Message ""Sorry, we could not complete your order. Please check your order details and try again"" is displayed when trying to purchase any plan",Marvel Web,Prem Kumar Singh,Open,
+Bug,MARVEL-12271,Web | QA | Gift Redeem details are not displayed on Manage Subscription Page after redeeming the gift on Free Trial Subscription Plans,Marvel Web,Prem Kumar Singh,Done,Done
+Bug,MARVEL-12268,Drupal: Comic ID Select cannot be updated — old value persists on save,Haris Neziric,Haris Neziric,Done,Done
+Bug,MARVEL-12267,Marvel.com | Web | Prod | Account Settings Page | Loading Spinner is displayed on Manage Subscription Page,Alan Wong,app-dtci-issues-tool@disney.com,Done,Done
+Bug,MARVEL-12265,Marvel.com | Web| Membership status is not showing as active in nav menu after redeeming a 3-month gift until the user logs out and logs back in,Marvel Web,Bhautik Kumar Devarajbhai,Done,Done
+Bug,MARVEL-12261, Email template is different on Staging when compared to QA for Gift Redeem activity,Marvel Web,Madhumati Bhagwant,Open,
+Bug,MARVEL-12260,SDCC| Staging|  Incorrect message displayed when redeeming a promo code for an expired subscription,Alan Wong,Madhumati Bhagwant,Withdrawn,Won't Do
+Bug,MARVEL-12258,"Marvel | Staging | Search page returns 404 with _apiEnv=Production parameter and displays ""No matches found"" for all",Marvel Web,Madhumati Bhagwant,Open,
+Bug,MARVEL-12254,"Web |Staging | Unable to claim redeem gift, throwing error message",Marvel Web,Abinaya Yoganandam,Open,
+Bug,MARVEL-12253,Marvel.com | emails are not sent to the user on cancelling subscription,Marvel Web,Madhumati Bhagwant,Open,
+Bug,MARVEL-12252,"Marvel.com | on downgrading form Any higher plan to lower like annual to monthly, emails are not triggered to the user",Marvel Web,Madhumati Bhagwant,Open,
+Bug,MARVEL-12251,"Marvel.com | On upgrading from any lower plan to higher like, Monthly to Annual, the email that is triggered says ""Renewal"" in instead of Upgrade",Marvel Web,Madhumati Bhagwant,Open,
+Bug,MARVEL-12247,Web| QA| Fraudulent customer account able to redeem promo code,Marvel Web,Bhautik Kumar Devarajbhai,Withdrawn,Won't Do
+Bug,MARVEL-12244,"Web| QA | Retention Tool | Text Input Field Appears for ""Difficult to Use"" Option",Marvel Web,Bhautik Kumar Devarajbhai,Open,
